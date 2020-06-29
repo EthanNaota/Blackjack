@@ -1,5 +1,5 @@
 # BlackjackGame_Java
- Very basic textbased Blackjack game created in java
+ Very basic textbased Blackjack game created in java, 2016
 
 Main Java file in blackjack/src/blackjack.java
 
