@@ -1,0 +1,11 @@
+a deck of cards has
+52 cards
+1 - 10 numbers
+3 face cards
+1 ace
+(for all four suites)
+
+each card has a number value
+each card has a color
+each card has a suite
+each card has a number/face/ace
